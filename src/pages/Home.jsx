@@ -16,8 +16,6 @@ function Home() {
           crossOrigin="anonymous"
         />
         <link rel="shortcut icon" type="image/png" href="assets/favicon.png" />
-        <link rel="stylesheet" href="CSS/main.css" />
-        <link rel="stylesheet" href="CSS/corner.css" />
         <title>JUST DO IT</title>
         <div id="header">
           <div className="flexrow-container">
